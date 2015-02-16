@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TiranDB", "TiranDB\TiranDB.sqlproj", "{738DB234-B20E-49F5-9FC1-61C485365711}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TiranV1DB", "TiranDB\TiranV1DB.sqlproj", "{738DB234-B20E-49F5-9FC1-61C485365711}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
